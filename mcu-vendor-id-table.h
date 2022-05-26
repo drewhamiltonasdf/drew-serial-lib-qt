@@ -1,0 +1,8 @@
+#ifndef MCUVENDORIDTABLE_H
+#define MCUVENDORIDTABLE_H
+
+#define TEENSY_VENDOR_ID    "16c0"
+#define ARDUINO_VENDOR_ID   "2341"
+#define FTDI_VENDOR_ID      "403"
+
+#endif // MCUVENDORIDTABLE_H
